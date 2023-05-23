@@ -1,0 +1,23 @@
+Remove Pin=J6-1 From Net=PE5
+Remove Pin=J6-2 From Net=PB6
+Remove Pin=J6-3 From Net=PB9
+Remove Pin=J6-4 From Net=PE1
+Remove Pin=J6-5 From Net=GND
+Remove Pin=J6-6 From Net=+1V8
+Remove Pin=J6-7 From Net=+1V8
+Remove Pin=J7-5 From Net=GND
+Remove Pin=J7-6 From Net=+1V8
+Remove Pin=J7-7 From Net=+1V8
+Remove Pin=J8-1 From Net=PD6
+Remove Pin=J8-5 From Net=GND
+Remove Pin=J8-6 From Net=+1V8
+Remove Pin=J8-7 From Net=+1V8
+Change Component Comment: Designator=C4 Old Comment=0.1uF 50V New Comment=CC0603KRX7R9BB104
+Change Component Comment: Designator=C5 Old Comment=0.1uF 50V New Comment=CC0603KRX7R9BB104
+Change Component Comment: Designator=C6 Old Comment=0.1uF 50V New Comment=CC0603KRX7R9BB104
+Change Component Designator: OldDesignator=R11 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R8
+Add Pin To Net: Pin=IC3-2 Old Net=PF1 New Net=PB6
+Add Pin To Net: Pin=IC3-3 Old Net=PF0 New Net=PB9
+Add Pin To Net: Pin=IC4-2 Old Net=PF14 New Net=PB6
+Add Pin To Net: Pin=IC4-3 Old Net=PB7 New Net=PB9

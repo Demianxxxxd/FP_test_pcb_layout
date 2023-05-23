@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PB9 Pin=IC5-A4
+Added Pin To Net: NetName=PB6 Pin=IC5-A5
+Added Member To Class: ClassName=Sheet1 Member=Component R5 LTR18EZPF1001
+Added Member To Class: ClassName=Sheet1 Member=Component R6 LTR18EZPF1001
+Added Member To Class: ClassName=Sheet1 Member=Component R7 SFR01MZPF1002

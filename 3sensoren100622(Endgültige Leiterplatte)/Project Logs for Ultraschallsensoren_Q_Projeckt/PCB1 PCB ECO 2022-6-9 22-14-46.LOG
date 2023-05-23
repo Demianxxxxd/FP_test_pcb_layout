@@ -1,0 +1,36 @@
+Added Component: Designator=C16(CAPC1608X90N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cc0603krx7r9bb104/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/3/CC0603KRX7R9BB104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CC603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/CC0603KRX7R9BB104?qs=vTakOoo5QyLvVCYM2ge8LQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1005X40N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SFR01MZPF1002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SFR01MZPF1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-SFR01MZPF1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SFR01MZPF1002?qs=byeeYqUIh0PM%2FLqo1px8tQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S2(TL3302BF260QG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/dk/DKDS-10/195395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL3302BF260QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "612-TL3302BF260QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/E-Switch/TL3302BF260QG?qs=QtyuwXswaQgzIcPTNLB4LA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=PH3-BOOT0 Pin=C16-2
+Added Pin To Net: NetName=+1V8 Pin=R13-1
+Added Pin To Net: NetName=PH3-BOOT0 Pin=R13-2
+Added Pin To Net: NetName=PH3-BOOT0 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Member To Class: ClassName=Sheet1 Member=Component C16 CC0603KRX7R9BB104
+Added Member To Class: ClassName=Sheet1 Member=Component R13 SFR01MZPF1002
+Added Member To Class: ClassName=Sheet1 Member=Component S2 TL3302BF260QG

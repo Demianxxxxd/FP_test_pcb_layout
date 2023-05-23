@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=PB9 Pin=R5-2
+Removed Pin From Net: NetName=PB6 Pin=R6-2
+Removed Pin From Net: NetName=1.8V Pin=R7-1
+Removed Pin From Net: NetName=NRST Pin=R7-2
+Added Component: Designator=R5(RESC1632X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/3380804eece3bdd53d019225060e3334.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTR18EZPF1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-LTR18EZPF1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-LTR18EZPF1001"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1632X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/3380804eece3bdd53d019225060e3334.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTR18EZPF1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-LTR18EZPF1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-LTR18EZPF1001"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1005X40N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SFR01MZPF1002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SFR01MZPF1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-SFR01MZPF1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SFR01MZPF1002?qs=byeeYqUIh0PM%2FLqo1px8tQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1.8V Pin=R5-1
+Added Pin To Net: NetName=PB9 Pin=R5-2
+Added Pin To Net: NetName=1.8V Pin=R6-1
+Added Pin To Net: NetName=PB6 Pin=R6-2
+Added Pin To Net: NetName=1.8V Pin=R7-1
+Added Pin To Net: NetName=NRST Pin=R7-2
+Change Net Name : Old Net Name=3.7V New Net Name=3V7
